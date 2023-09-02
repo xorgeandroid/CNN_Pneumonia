@@ -30,3 +30,4 @@ Abre un navegador web y navega a http://localhost:5000 para interactuar con la a
 Estructura del Proyecto
 app.py: El script principal que define la aplicación web Flask para cargar imágenes y realizar predicciones de neumonía.
 templates/index.html: El archivo HTML que muestra el formulario para cargar imágenes.
+No Olvides agregar en la misma ruta tu "index.html"
